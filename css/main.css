@@ -1,0 +1,33 @@
+@import url("reset.css");
+
+#outer-wrapper{
+  width:1280px;
+  display:flex;
+  flex-flow:row wrap;
+  height:800px;
+  margin:0 auto;
+  border:1px solid black;
+  
+}
+#vs {
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  
+}
+.movie-poster{
+  width:400px;
+  height:600px;
+  border:1px solid black;
+}
+
+#action-btn{
+  width:200px;
+  height:50px;
+  border-radius:20px solid black;
+  background-color: blue;
+  line-height: 50px;
+  font-family: baskerville:
+  
+  
+}
